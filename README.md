@@ -24,9 +24,6 @@
 This is what we use at 42 to learn the basics of C++ . The curriculum is created for two weeks, a day pdf should take one day and the rushes are weekend projects.
 [https://github.com/Binary-Hackers/42_Subjects/tree/master/01_Piscines/CPP](https://github.com/Binary-Hackers/42_Subjects/tree/master/01_Piscines/CPP)
 
-### Play with darknet + zeromq
-[https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/) 
-
 ### C++ BitMagic library of compressed bitset - matrix operations and containers.
 [https://github.com/tlk00/BitMagic/](https://github.com/tlk00/BitMagic/)
 
@@ -38,7 +35,7 @@ CPU support is not available yet
 Libtorch project, writing deep learning research projects in C++. Compile it using CMake and clang.
 [https://github.com/dendisuhubdy/libtorch_examples](https://github.com/dendisuhubdy/libtorch_examples)
 
-## Fast Neural Machine Translation in C++
+### Fast Neural Machine Translation in C++
 Marian is an efficient Neural Machine Translation framework written in pure C++ with minimal dependencies. 
 [https://marian-nmt.github.io/](https://marian-nmt.github.io/)
 
@@ -51,6 +48,9 @@ Try to build something fun using [@openframeworks](https://twitter.com/openframe
 
 - [openFrameworks](https://openframeworks.cc/) is an open source C++ toolkit for creative coding.
 - Read more: [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html)
+
+### Play with darknet + zeromq
+[https://pjreddie.com/darknet/yolo/](https://pjreddie.com/darknet/yolo/) 
 
 ### Help develop some OSS projects
 e.g. GUI environments:
@@ -80,6 +80,9 @@ You could make a [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27
 [https://blog.demofox.org/](https://blog.demofox.org/)
 
 
+
+## Code
+**LeetCode** [https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
 
 ## Some more ideas and comments
 
