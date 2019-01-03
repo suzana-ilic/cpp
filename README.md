@@ -4,12 +4,19 @@
  
 ![alt text](images/cpp.png)
 
+
+
 ## Join the community to discuss and learn about C++ 
-Twitter [@include_cpp](https://twitter.com/include_cpp) and Discord [#include <C++>](https://discordapp.com/invite/ZPErMGW)
+**Twitter** [@include_cpp](https://twitter.com/include_cpp) and **Discord** [#include <C++>](https://discordapp.com/invite/ZPErMGW)
+
 ![alt text](images/include.png)
+
+
 
 ## Curated list of C++ (or C) frameworks, libraries, resources, and shiny things.
 [https://github.com/fffaraz/awesome-cpp/](https://github.com/fffaraz/awesome-cpp/)
+
+
 
 ## Github
 
@@ -31,14 +38,19 @@ CPU support is not available yet
 Libtorch project, writing deep learning research projects in C++. Compile it using CMake and clang.
 [https://github.com/dendisuhubdy/libtorch_examples](https://github.com/dendisuhubdy/libtorch_examples)
 
+## Fast Neural Machine Translation in C++
+Marian is an efficient Neural Machine Translation framework written in pure C++ with minimal dependencies. 
+[https://marian-nmt.github.io/](https://marian-nmt.github.io/)
+
+
+
 ## Projects
 
 ### Open Frameworks
 Try to build something fun using [@openframeworks](https://twitter.com/openframeworks).
 
-[openFrameworks](https://openframeworks.cc/) is an open source C++ toolkit for creative coding.
-
-Read more: [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html)
+- [openFrameworks](https://openframeworks.cc/) is an open source C++ toolkit for creative coding.
+- Read more: [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html)
 
 ### Help develop some OSS projects
 e.g. GUI environments:
@@ -50,7 +62,9 @@ or data processing software:
 **port of R data.table package to Python**
 
 ### Conway's Game of Life
-You could make a Conway's Game of life simulator in C++. Its something I built as a project in my high School CS class. Here's a link to learn more about it [https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+You could make a [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) simulator in C++. Its something I built as a project in my high School CS class.
+
+
 
 ## YouTube
 
@@ -58,13 +72,16 @@ You could make a Conway's Game of life simulator in C++. Its something I built a
 
 [![Tutorial 01 for Arduino: Getting Acquainted with Arduino](http://img.youtube.com/vi/fCxzA9_kg6s/0.jpg)](https://www.youtube.com/watch?v=fCxzA9_kg6s "Tutorial 01 for Arduino: Getting Acquainted with Arduino")
 
+
+
 ## Blogs
 
 ### Neural networks, audio synthesis, graphics, math, cryptography and more :)
 [https://blog.demofox.org/](https://blog.demofox.org/)
 
 
-### Some more ideas and comments
+
+## Some more ideas and comments
 
 - **A compiler for a simple C subset**
 - **A mini text editor**
