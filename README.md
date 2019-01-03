@@ -16,41 +16,38 @@ https://github.com/fffaraz/awesome-cpp/
 
 ## Github
 
-### 
-
 ### 42 Subjects: C++
 This is what we use at 42 to learn the basics of C++ . The curriculum is created for two weeks, a day pdf should take one day and the rushes are weekend projects.
-
 https://github.com/Binary-Hackers/42_Subjects/tree/master/01_Piscines/CPP
 
 ### Play with darknet + zeromq
 https://pjreddie.com/darknet/yolo/ 
 
 ### C++ BitMagic library of compressed bitset - matrix operations and containers.
-
 https://github.com/tlk00/BitMagic/
 
 ### Check the latest C++ ML library released by FAIR
 CPU support is not available yet
-
 https://github.com/facebookresearch/flashlight
 
 ### Deep Learning
 Libtorch project, writing deep learning research projects in C++. Compile it using CMake and clang.
-
 https://github.com/dendisuhubdy/libtorch_examples
 
 ## Projects
+
+### Open Frameworks
+Try to build something fun using [@openframeworks](https://twitter.com/openframeworks).
+[openFrameworks](https://openframeworks.cc/) is an open source C++ toolkit for creative coding.
+Read more: [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html)
 
 ### Help develop some OSS projects
 e.g. GUI environments:
 
 **fluxbox** http://fluxbox.org/ 
-
 **LXQt** https://lxqt.org/ 
 
 or data processing software:
-
 **port of R data.table package to Python**
 
 
@@ -95,3 +92,5 @@ You can write a framework with 2d graphics without APIs and without using the st
 You have to start with your own **C++ build system for C++**, of course :D
 
 Do **hardware stuff. Edge ML, Deep learning with hardware (ARM CPUs, FPGA)** is low hanging fruit. Sometimes not C++, also need to dabble with verilog and/or asm.
+
+This is plain C but may be of interest? **“Build Your Own Lisp Learn C and build your own programming language in 1000 lines of code!”** [http://www.buildyourownlisp.com](http://www.buildyourownlisp.com)
