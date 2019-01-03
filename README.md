@@ -81,8 +81,13 @@ You could make a [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27
 
 
 
-## Code
-**LeetCode** [https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
+## Code and Tutorials
+
+**Write a compiler using llvm following the tutorial?** 
+[https://llvm.org/docs/tutorial/](https://llvm.org/docs/tutorial/ )
+
+**LeetCode** 
+[https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)
 
 ## Some more ideas and comments
 
