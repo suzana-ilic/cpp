@@ -124,4 +124,4 @@ Do **hardware stuff. Edge ML, Deep learning with hardware (ARM CPUs, FPGA)** is 
 
 This is plain C but may be of interest? **“Build Your Own Lisp Learn C and build your own programming language in 1000 lines of code!”** [http://www.buildyourownlisp.com](http://www.buildyourownlisp.com)
 
-**Unreal C++** can be a next step if graphics is an interest--imo a frustratingly illogical design vs. oF, but makes short work of huge hassles like importing media assets and applying complex post effects.
+**Unreal C++** can be a next step if graphics is one of your fields of interest--imo a frustratingly illogical design vs. oF, but makes short work of huge hassles like importing media assets and applying complex post effects.
